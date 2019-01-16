@@ -4,6 +4,7 @@ Project configuration:
  - node.js
  - eslint with airbnb config
  - babel for ES6+ js syntax
+ - mocha
 
 To run the tests:
- - `npm run test`
+ - `yarn test`
